@@ -1,0 +1,192 @@
+.child-1{
+    display: inline-block;
+}
+.child-2{
+    display: inline-block;
+    margin-left: 1100px;
+}
+img{
+    width: 100%;
+}
+.cls1{
+    display: inline-block;
+    margin-left: 10px;
+    padding: 10px;
+}
+.cls2{
+    display: inline-block;
+    margin-left: 10px;
+    padding: 10px;
+}
+.cls3{
+    display: inline-block;
+    margin-left: 10px;
+    padding: 10px;
+}
+.container{
+    position: relative;
+}
+.hlo{
+    position: absolute;
+    top: 450px;
+    right: 750px;
+    font-size:larger;
+    color: white;
+}
+b{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+hr{
+    margin: 30px;
+}
+.child-3{
+    
+    margin-left: 70px;
+}
+.child31{
+    
+    
+    width: 100%;
+}
+.child32{
+    width: 100%;
+    
+}
+.child311{
+    display: inline-block;
+    width: 300px;
+    position: relative;
+    margin: 10px;
+    
+}
+.child312{
+    display: inline-block;
+    position: relative;
+    width: 300px;
+    margin: 10px;
+}
+.child313{
+    display: inline-block;
+    position: relative;
+    width: 300px;
+    margin: 10px;
+}
+.child314{
+    display: inline-block;
+    position: relative;
+    width: 300px;
+    margin: 10px;
+}
+.child321{
+    display: inline-block;
+    position: relative;
+    width: 300px;
+    margin: 10px;
+}
+.child322{
+    display: inline-block;
+    position: relative;
+    width: 300px;
+    margin: 10px;
+}
+.child323{
+    display: inline-block;
+    position: relative;
+    width: 300px;
+    margin: 10px;
+}
+.child324{
+    display: inline-block;
+    position: relative;
+    width: 300px;
+    margin: 10px;
+}
+.clss1{
+    position: absolute;
+    top: 10px;
+    color: white;
+}
+h3{
+    top: 0;
+    left: 0;
+    position: absolute;
+    color: white;
+    background-color: black;
+    padding: 9px;
+}
+.container2{
+    margin-bottom: 30px;
+}
+.container3{
+    margin: 30px;
+}
+.child41{
+    display: inline-block;
+    width: 350px;
+}
+.child42{
+    display: inline-block;
+    width: 350px;
+}
+.child43{
+    display: inline-block;
+    width: 350px;
+}
+.child44{
+    display: inline-block;
+    width: 350px;
+}
+h4{
+    font-size: larger;
+    font-family:Calibri;
+}
+button{
+    border: none;
+    padding: 10px;
+    width: 300px;
+}
+
+.pro{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-left: 30px;
+    margin-top: 10px;
+    width: 200px;
+}
+.pro1{
+    width: 1000px;
+    margin: 10px;
+    height: 30px;
+    margin-left: 30px;
+}
+.pro2{
+    width: 1000px;
+    margin: 10px;
+    height: 30px;
+    margin-left: 30px;
+}
+.pro3{
+    width: 1000px;
+    margin: 10px;
+    height: 30px;
+    margin-left: 30px;
+}
+.pro4{
+    width: 1000px;
+    margin: 10px;
+    height: 30px;
+    margin-left: 30px;
+}
+.like{
+    padding: 50px;
+    color: white;
+    background-color: black;
+    padding-left: 700px;
+    
+}
+a{
+    color: white;
+}
